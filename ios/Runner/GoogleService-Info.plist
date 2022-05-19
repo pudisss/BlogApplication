@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>147837461720-5ikquo0uafthjpnbivvrmkqkjuostpge.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.147837461720-5ikquo0uafthjpnbivvrmkqkjuostpge</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQy6tybFdcyGEiKUwDN__VBXlCsNlfmM8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147837461720</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.blogapp.blogapp</string>
+	<key>PROJECT_ID</key>
+	<string>learn-database-75dfb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learn-database-75dfb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147837461720:ios:f62a15d52408aeb0e1a3ad</string>
+	<key>DATABASE_URL</key>
+	<string>https://learn-database-75dfb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
